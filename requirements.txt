@@ -2,3 +2,5 @@ Pillow
 opencv-python
 numpy
 mediapipe
+scikit-learn
+scikit-image
